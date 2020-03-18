@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2020.03.10.ApplicationRotaFacil</string>
+    <string name="permisao">Allow access to GPS</string>
+    <string name="caminho">Start the Path</string>
+    <string name="fimCaminho">End Path</string>
+    <string name="distanciaPercorrida">Travelled distance:</string>
+    <string name="tempoTotal">Total time:</string>
+    <string name="dica">What are you looking for?</string>
+    <string name="gpsLigado">GPS is already on</string>
+    <string name="gpsDesligado">GPS is already off</string>
+    <string name="gpsDesativado">GPS is disabled. Please activate!</string>
+    <string name="gpsNecessario">The application needs access to GPS to work</string>
+    <string name="permissaoNecessaria">GPS access permission required</string>
+    <string name="ligarGPS">Turn on GPS</string>
+    <string name="desligarGPS">Turn off GPS</string>
+    <string name="desligarGPS2">Remove permission</string>
+    <string name="no_gps_no_app">Without GPS the application does not work</string>
+    <string name="permissao_concedida"> Permission granted</string>
+
+
+
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">2020.03.10.ApplicationRotaFacil</string>
+    <string name="permisao">Permitir acesso ao GPS</string>
+    <string name="caminho">Iniciar o Caminho</string>
+    <string name="fimCaminho">Finalizar Caminho</string>
+    <string name="distanciaPercorrida">Distância Percorrida:</string>
+    <string name="tempoTotal">Tempo Total:</string>
+    <string name="dica">O que você procura?</string>
+    <string name="gpsLigado">O GPS já está ligado</string>
+    <string name="gpsDesligado">O GPS já está desligado</string>
+    <string name="gpsDesativado">O GPS está desativado. Por favor ative!</string>
+    <string name="gpsNecessario">O aplicativo precisa de acesso ao GPS para funcionar</string>
+    <string name="permissaoNecessaria">Necessário a permissão de acesso ao GPS</string>
+    <string name="ligarGPS">Ligar GPS</string>
+    <string name="desligarGPS">Desligar GPS</string>
+    <string name="desligarGPS2">Remover permissão</string>
+    <string name="no_gps_no_app">Sem o GPS o aplicativo não funciona</string>
+    <string name="permissao_concedida"> Permissao Concedida </string>
+
+</resources>

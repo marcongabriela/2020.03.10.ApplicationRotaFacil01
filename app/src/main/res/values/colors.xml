@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<color name="colorPrimary">#66bb6a</color>
+<color name="colorPrimaryDark">#62727b</color>
+<color name="colorAccent">#ffffff </color>
+<color name="corTexto">#ffffff</color>
+<color name="disabled_color">#ffffff</color>
+    </resources>
